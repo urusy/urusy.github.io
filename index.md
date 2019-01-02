@@ -10,3 +10,4 @@
 - [読んだ本リスト2018](https://app.simplenote.com/publish/g3pBF7)
 - [読んだ本リスト2019](https://app.simplenote.com/publish/FytDHs)
 
+<meta name="robots" content="noindex">
