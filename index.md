@@ -5,6 +5,9 @@
 - [note](https://note.mu/urusy)
 - [Qiita](https://qiita.com/urusy)
 
+## Skills
+- [開発スキル](http://simp.ly/publish/MNfXlJ)
+
 ## Reading
 
 - [読んだ本リスト2018](https://app.simplenote.com/publish/g3pBF7)
